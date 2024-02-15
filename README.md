@@ -1,9 +1,11 @@
 # MCD_UTC504
 ## MCD 
-![MCD_VAA.jpg](..%2F..%2FMCD-MLD%2FMCD_VAA.jpg)
+![MCD_VAA](https://github.com/ryclos/MCD_UTC504/assets/9601851/f19c6fc5-576d-49de-83d9-cfe9ec3757b9)
+
 
 ## MLD
-![MLD_VAA.jpg](..%2F..%2FMCD-MLD%2FMLD_VAA.jpg)
+![MLD_VAA](https://github.com/ryclos/MCD_UTC504/assets/9601851/7f38ae7f-c439-4d7a-9fa1-467430cc64af)
+
 
 
 **_seances_** = (id_seance *INT*, date_seance *DATE*, lieu *VARCHAR*(50), horaire *TIME*, max_users *INT*);\
